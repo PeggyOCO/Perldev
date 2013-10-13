@@ -1,10 +1,10 @@
 <?xml version='1.0'?>
 <pets>
-  <dog>
+  <cat>
     <name>Madness</name>
     <dob>1 February 2004</dob>
     <price>150</price>
-  </dog>
+  </cat>
   <dog>
     <name>Maggie</name>
     <dob>12 October 2005</dob>
