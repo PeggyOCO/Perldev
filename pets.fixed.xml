@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<pets>
+  <cat name="Madness" age="9 years" price="180.00" />
+  <cat name="Little" age="7 years" price=" 30.00" />
+  <dog name="Maggie" age="8 years" owner="Rosie" price=" 90.00" />
+</pets>
